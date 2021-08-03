@@ -21,20 +21,22 @@ The application has been developed by following technologies.
 This application requires Java 1.8+ , Maven build tool, MySQL 5.8x must be installed in the local machine.
 
 
-MySQL database server running locally with the respective port number, username and password.
+- MySQL database server running locally with the respective port number, username and password.
 
-Download sample application in your machine through GitHub.
+- Create database, table as provided in  _spring-jdbc-mysql/mysql_scripts/database_commands.sql_
 
-Import as a Maven project in your IDE (Here, Eclipse is used) of your choice
+- Download sample application in your machine through GitHub.
 
-In your terminal window, Navigate to your project directory location and execute below command :
+- Import as a Maven project in your IDE (Here, Eclipse is used) of your choice
+
+- In your terminal window, Navigate to your project directory location and execute below command :
 
 ```sh
 
 ..\spring-jdbc-mysql> mvn clean package -e -U
 
 ```
-Navigate to **BasicSpringLab1.java** in your IDE and run this class as Java application.
+- Navigate to **BasicSpringLab1.java** in your IDE and run this class as Java application.
 
 
 ## License
