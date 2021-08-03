@@ -10,11 +10,11 @@ Run BasicSpringLab1.java main class to execute the CRUD operations.
 The application has been developed by following technologies.
 
 
-- [Amazon Corretto 11] - Open JDK provided by Amazon.
-- [Apache Maven 3.8.1 ] - Maven Build Tool.
-- [Spring Framework ] - Spring Version 5.3.9.
-- [Oracle MySQL Database] - Version 5.8
-- [Eclipse IDE for Enterprise Java and Web Developers] - IDE Version: 2021-06
+- [Amazon Corretto 11](https://docs.aws.amazon.com/corretto/) - Open JDK provided by Amazon.
+- [Apache Maven 3.8.1 ](https://maven.apache.org/download.cgi) - Maven Build Tool.
+- [Spring Framework ](https://spring.io/) - Spring Version 5.3.9.
+- [Oracle MySQL Database](https://dev.mysql.com/downloads/mysql/) - Community Edition ,Version 5.8
+- [Eclipse IDE for Enterprise Java and Web Developers](https://www.eclipse.org/downloads/packages/) - IDE Version: 2021-06
 
 ## Installation
 
