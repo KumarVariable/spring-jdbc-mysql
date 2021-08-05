@@ -20,6 +20,7 @@ public class CourseRowMapper implements RowMapper<Course> {
 
 		Course course = new Course();
 
+		course.setId(resultSet.getInt("id"));
 		course.setCourseId(resultSet.getString("course_id"));
 		course.setCourseName(resultSet.getString("course_name"));
 		course.setCourseTrainerName(resultSet.getString("course_trainer_name"));
