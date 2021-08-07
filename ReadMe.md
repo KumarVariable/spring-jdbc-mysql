@@ -41,7 +41,7 @@ This application requires Java 1.8+ , Maven build tool, MySQL 5.8x must be insta
 
 ### License
 
-Licensed under GNU General Public License v3.0. Please see LICENSE for details.
+Licensed under GNU General Public License v3.0. Please see [LICENSE](LICENSE) for details.
 
 
 **Happy Learning!**
