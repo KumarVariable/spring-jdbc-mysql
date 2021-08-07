@@ -1,11 +1,11 @@
-# Spring Maven Application With MySQL
+## Spring Maven Application With MySQL
 
-## _Basic Spring Application with CRUD operations_
+### _Basic Spring Application with CRUD operations_
 
 Sample application is to demonstrate integration of MySQL database with Spring application.
 Run BasicSpringLab1.java main class to execute the CRUD operations.
 
-## Tech
+### Tech
 
 The application has been developed by following technologies.
 
@@ -16,7 +16,7 @@ The application has been developed by following technologies.
 - [Oracle MySQL Database](https://dev.mysql.com/downloads/mysql/) - Community Edition ,Version 5.8
 - [Eclipse IDE for Enterprise Java and Web Developers](https://www.eclipse.org/downloads/packages/) - IDE Version: 2021-06
 
-## Installation
+### Installation
 
 This application requires Java 1.8+ , Maven build tool, MySQL 5.8x must be installed in the local machine.
 
@@ -39,9 +39,9 @@ This application requires Java 1.8+ , Maven build tool, MySQL 5.8x must be insta
 - Navigate to **BasicSpringLab1.java** in your IDE and run this class as Java application.
 
 
-## License
+### License
 
-The beautiful thing about open source programming community is that its always free.
+Licensed under GNU General Public License v3.0. Please see LICENSE for details.
 
 
 **Happy Learning!**
